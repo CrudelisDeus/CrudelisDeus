@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./img/intro.gif)
+![](./img/intro2.gif)
