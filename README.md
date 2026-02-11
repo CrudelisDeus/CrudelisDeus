@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./image.png)
+
+<video autoplay loop muted playsinline>
+  <source src="img/intro.mp4" type="video/mp4">
+</video>
