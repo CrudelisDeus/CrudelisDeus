@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](./img/intro3.gif)
+![](./img/intro.gif)
 
 
 DevOps engineer
