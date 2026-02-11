@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](./img/intro3.gif)
+
+**Main site**: [deus-soft.org](https://deus-soft.org)
+
+**Linkedin**: [Dmytro Deus](https://www.linkedin.com/in/crudelisdeus/)
