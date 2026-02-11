@@ -21,10 +21,6 @@ Here are some ideas to get you started:
 
 DevOps engineer
 
----
-
 Main site: [deus-soft.org](https://deus-soft.org)
 
 LinkedIn: [Dmytro Deus](https://www.linkedin.com/in/crudelisdeus/)
-
----
