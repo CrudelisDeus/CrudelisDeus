@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![](./img/intro.gif)
 
 
-DevOps engineer
+SRE DevOps engineer
 
 - Main site: [deus-soft.org](https://deus-soft.org)
 
